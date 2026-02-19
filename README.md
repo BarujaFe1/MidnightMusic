@@ -46,16 +46,6 @@
 
 ---
 
-## 📸 Screenshots
-
-*(Adicione aqui prints do aplicativo. Exemplos:)*
-
-| Tela Principal | Playlists | Configurações |
-|----------------|-----------|---------------|
-| ![single](https://via.placeholder.com/300x200?text=Tela+de+Música) | ![playlist](https://via.placeholder.com/300x200?text=Tela+de+Playlists) | ![settings](https://via.placeholder.com/300x200?text=Configurações) |
-
----
-
 ## 🚀 Instalação
 
 ### Pré-requisitos
@@ -231,6 +221,5 @@ Este projeto está licenciado sob a **MIT License**. Veja o arquivo [LICENSE](LI
 
 ---
 
-**Feito com 🌙 e muito ☕ por [Seu Nome](https://github.com/seu-usuario).**  
+**Feito com 🌙 e muito ☕ por BarujaFE (https://github.com/BarujaFe1).**  
 Se gostou, deixe uma ⭐ no repositório!
-```
